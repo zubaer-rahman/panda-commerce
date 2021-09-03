@@ -42,3 +42,16 @@
     border: none;
     box-shadow: 5px 5px 10px dimgrey;
 }
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: dimgrey;
+}
+footer{
+    text-align: center;
+}
